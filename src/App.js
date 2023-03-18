@@ -24,7 +24,7 @@ const App = () => {
 
 useEffect(() => {
   setAnim(true);
-  fetch("https://reqres.in/api/users?delay=0.5")
+  fetch("https://reqres.in/api/users?delay=3")
   .then(answer =>{
       if(!answer.ok)
       {
