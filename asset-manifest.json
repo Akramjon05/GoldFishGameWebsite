@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30aed52a.css",
+    "main.js": "/static/js/main.89bf04c5.js",
+    "static/media/Owl__image2.png": "/static/media/Owl__image2.a92bd1e2ec9c61423f3e.png",
+    "static/media/turnir_bg.png": "/static/media/turnir_bg.813475de27d03e36bfe2.png",
+    "static/media/about_img.png": "/static/media/about_img.dd2ef3e2a8319e42860d.png",
+    "static/media/Owl__image.png": "/static/media/Owl__image.dd16288bbb1c564404ab.png",
+    "static/media/element_card__img.png": "/static/media/element_card__img.8026e0b7675bc214ef02.png",
+    "static/media/element_card_img2.png": "/static/media/element_card_img2.c4f3758cd2dd0a4cec64.png",
+    "static/media/contact_location.png": "/static/media/contact_location.a762e0c2e3b707d107a8.png",
+    "static/media/info_img1.png": "/static/media/info_img1.8f528d736e78050e73e1.png",
+    "static/media/info_img2.png": "/static/media/info_img2.05a02bd272933973714f.png",
+    "static/media/catalog_game.png": "/static/media/catalog_game.9ba56a57dda546a84503.png",
+    "static/media/catalog_game3.png": "/static/media/catalog_game3.006da481964353a19a25.png",
+    "static/media/calatog_game2.png": "/static/media/calatog_game2.d2ef1b6bacebc67c48db.png",
+    "static/media/catalog_game4.png": "/static/media/catalog_game4.94a7065c785a9e643ef7.png",
+    "static/media/catalog__img.png": "/static/media/catalog__img.7297ed0abd4d313b892a.png",
+    "static/media/img3.png": "/static/media/img3.cf43136006aa6b85e651.png",
+    "static/media/card_img1.png": "/static/media/card_img1.f5fb1fb7fe435f7ca727.png",
+    "static/media/img1.png": "/static/media/img1.0544f92e201f6bc59feb.png",
+    "static/media/card_bc_img3.png": "/static/media/card_bc_img3.23b00dd9faf7dc2586d4.png",
+    "static/media/img2.png": "/static/media/img2.2494c1d7f6757964cc6a.png",
+    "static/media/card_img2.png": "/static/media/card_img2.7d7f124d1434b15dbc87.png",
+    "static/media/card_img3.png": "/static/media/card_img3.8686248a1bab8b493679.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.30aed52a.css.map": "/static/css/main.30aed52a.css.map",
+    "main.89bf04c5.js.map": "/static/js/main.89bf04c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30aed52a.css",
+    "static/js/main.89bf04c5.js"
+  ]
+}
