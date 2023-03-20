@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GoldFishGameWebsite/static/css/main.224d7f4b.css",
-    "main.js": "/GoldFishGameWebsite/static/js/main.314c249e.js",
+    "main.css": "/GoldFishGameWebsite/static/css/main.ec3f25a5.css",
+    "main.js": "/GoldFishGameWebsite/static/js/main.0b1faa02.js",
     "static/media/Owl__image2.png": "/GoldFishGameWebsite/static/media/Owl__image2.a92bd1e2ec9c61423f3e.png",
     "static/media/turnir_bg.png": "/GoldFishGameWebsite/static/media/turnir_bg.813475de27d03e36bfe2.png",
     "static/media/about_img.png": "/GoldFishGameWebsite/static/media/about_img.dd2ef3e2a8319e42860d.png",
@@ -28,11 +28,11 @@
     "static/media/slick.ttf": "/GoldFishGameWebsite/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/GoldFishGameWebsite/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/GoldFishGameWebsite/index.html",
-    "main.224d7f4b.css.map": "/GoldFishGameWebsite/static/css/main.224d7f4b.css.map",
-    "main.314c249e.js.map": "/GoldFishGameWebsite/static/js/main.314c249e.js.map"
+    "main.ec3f25a5.css.map": "/GoldFishGameWebsite/static/css/main.ec3f25a5.css.map",
+    "main.0b1faa02.js.map": "/GoldFishGameWebsite/static/js/main.0b1faa02.js.map"
   },
   "entrypoints": [
-    "static/css/main.224d7f4b.css",
-    "static/js/main.314c249e.js"
+    "static/css/main.ec3f25a5.css",
+    "static/js/main.0b1faa02.js"
   ]
 }
